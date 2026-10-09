@@ -1,4 +1,4 @@
-# Hi, I'm Seungdeok Choi 👋
+# Hi, I'm Seungdeok Choi (최승덕)
 
 I'm an M.S. student in the **Department of Mechanical Engineering at KAIST**, South Korea.
 
